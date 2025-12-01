@@ -1,0 +1,2158 @@
+{
+  "pals": [
+    {
+      "id": "YakushimaMonster001",
+      "name": "绿史莱姆",
+      "nameEn": "Green Slime",
+      "code": "YakushimaMonster001",
+      "breedingPower": 1430,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster001_Blue",
+      "name": "蓝史莱姆",
+      "nameEn": "Blue Slime",
+      "code": "YakushimaMonster001_Blue",
+      "breedingPower": 1490,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_Blue_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster001_Red",
+      "name": "红史莱姆",
+      "nameEn": "Red Slime",
+      "code": "YakushimaMonster001_Red",
+      "breedingPower": 1405,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_Red_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster001_Purple",
+      "name": "紫史莱姆",
+      "nameEn": "Purple Slime",
+      "code": "YakushimaMonster001_Purple",
+      "breedingPower": 1390,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_Purple_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster001_Pink",
+      "name": "夜明史莱姆",
+      "nameEn": "Illuminant Slime",
+      "code": "YakushimaMonster001_Pink",
+      "breedingPower": 1500,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_Pink_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster001_Rainbow",
+      "name": "彩虹史莱姆",
+      "nameEn": "Rainbow Slime",
+      "code": "YakushimaMonster001_Rainbow",
+      "breedingPower": 1320,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster001_Rainbow_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster002",
+      "name": "附魔剑",
+      "nameEn": "Enchanted Sword",
+      "code": "YakushimaMonster002",
+      "breedingPower": 1380,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster002_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster003",
+      "name": "洞穴蝙蝠",
+      "nameEn": "Cave Bat",
+      "code": "YakushimaMonster003",
+      "breedingPower": 1340,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster003_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaMonster003_Purple",
+      "name": "夜明蝙蝠",
+      "nameEn": "Illuminant Bat",
+      "code": "YakushimaMonster003_Purple",
+      "breedingPower": 1250,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaMonster003_Purple_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaBoss001",
+      "name": "克苏鲁之眼",
+      "nameEn": "Eye of Cthulhu",
+      "code": "YakushimaBoss001",
+      "breedingPower": 1380,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaBoss001_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "YakushimaBoss001_Small",
+      "name": "恶魔眼",
+      "nameEn": "Demon Eye",
+      "code": "YakushimaBoss001_Small",
+      "breedingPower": 1390,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_YakushimaBoss001_Small_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "1",
+      "name": "棉悠悠",
+      "nameEn": "Lamball",
+      "code": "SheepBall",
+      "breedingPower": 1470,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SheepBall_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "2",
+      "name": "捣蛋猫",
+      "nameEn": "Cattiva",
+      "code": "PinkCat",
+      "breedingPower": 1460,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PinkCat_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "3",
+      "name": "皮皮鸡",
+      "nameEn": "Chikipi",
+      "code": "ChickenPal",
+      "breedingPower": 1500,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ChickenPal_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "4",
+      "name": "翠叶鼠",
+      "nameEn": "Lifmunk",
+      "code": "Carbunclo",
+      "breedingPower": 1430,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Carbunclo_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "5",
+      "name": "火绒狐",
+      "nameEn": "Foxparks",
+      "code": "Kitsunebi",
+      "breedingPower": 1400,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Kitsunebi_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "5B",
+      "name": "雪绒狐",
+      "nameEn": "Foxparks Cryst",
+      "code": "Kitsunebi_Ice",
+      "breedingPower": 1305,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Kitsunebi_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "6",
+      "name": "冲浪鸭",
+      "nameEn": "Fuack",
+      "code": "BluePlatypus",
+      "breedingPower": 1330,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BluePlatypus_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "6B",
+      "name": "热浪鸭",
+      "nameEn": "Fuack Ignis",
+      "code": "BluePlatypus_Fire",
+      "breedingPower": 1290,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BluePlatypus_Fire_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "7",
+      "name": "伏特喵",
+      "nameEn": "Sparkit",
+      "code": "ElecCat",
+      "breedingPower": 1410,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ElecCat_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "8",
+      "name": "新叶猿",
+      "nameEn": "Tanzee",
+      "code": "Monkey",
+      "breedingPower": 1250,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Monkey_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "9",
+      "name": "燎火鹿",
+      "nameEn": "Rooby",
+      "code": "FlameBambi",
+      "breedingPower": 1155,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlameBambi_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "10",
+      "name": "企丸丸",
+      "nameEn": "Pengullet",
+      "code": "Penguin",
+      "breedingPower": 1350,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Penguin_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "10B",
+      "name": "闪丸丸",
+      "nameEn": "Pengullet Lux",
+      "code": "Penguin_Electric",
+      "breedingPower": 1310,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Penguin_Electric_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "11",
+      "name": "企丸王",
+      "nameEn": "Penking",
+      "code": "CaptainPenguin",
+      "breedingPower": 520,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CaptainPenguin_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "11B",
+      "name": "闪丸王",
+      "nameEn": "Penking Lux",
+      "code": "CaptainPenguin_Black",
+      "breedingPower": 490,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CaptainPenguin_Black_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "12",
+      "name": "電棘鼠",
+      "nameEn": "Jolthog",
+      "code": "Hedgehog",
+      "breedingPower": 1370,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Hedgehog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "12B",
+      "name": "冰刺鼠",
+      "nameEn": "Jolthog Cryst",
+      "code": "Hedgehog_Ice",
+      "breedingPower": 1360,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Hedgehog_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "13",
+      "name": "叶泥泥",
+      "nameEn": "Gumoss",
+      "code": "PlantSlime",
+      "breedingPower": 1240,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PlantSlime_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "14",
+      "name": "玉藻狐",
+      "nameEn": "Vixy",
+      "code": "CuteFox",
+      "breedingPower": 1450,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CuteFox_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "15",
+      "name": "啼卡尔",
+      "nameEn": "Hoocrates",
+      "code": "WizardOwl",
+      "breedingPower": 1390,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WizardOwl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "16",
+      "name": "壶小象",
+      "nameEn": "Teafant",
+      "code": "Ganesha",
+      "breedingPower": 1490,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Ganesha_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "17",
+      "name": "瞅什魔",
+      "nameEn": "Depresso",
+      "code": "NegativeKoala",
+      "breedingPower": 1380,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NegativeKoala_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "18",
+      "name": "米露菲",
+      "nameEn": "Cremis",
+      "code": "WoolFox",
+      "breedingPower": 1455,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WoolFox_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "19",
+      "name": "寐魔",
+      "nameEn": "Daedream",
+      "code": "DreamDemon",
+      "breedingPower": 1230,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DreamDemon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "20",
+      "name": "草莽猪",
+      "nameEn": "Rushoar",
+      "code": "Boar",
+      "breedingPower": 1130,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Boar_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "21",
+      "name": "露娜蒂",
+      "nameEn": "Nox",
+      "code": "NightFox",
+      "breedingPower": 1180,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NightFox_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "22",
+      "name": "遁地鼠",
+      "nameEn": "Fuddler",
+      "code": "CuteMole",
+      "breedingPower": 1220,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CuteMole_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "23",
+      "name": "勾魂鱿",
+      "nameEn": "Killamari",
+      "code": "NegativeOctopus",
+      "breedingPower": 1290,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NegativeOctopus_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "23B",
+      "name": "蚀魂鱿",
+      "nameEn": "Killamari Primo",
+      "code": "NegativeOctopus_Neutral",
+      "breedingPower": 1250,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NegativeOctopus_Neutral_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "24",
+      "name": "喵丝特",
+      "nameEn": "Mau",
+      "code": "Bastet",
+      "breedingPower": 1480,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Bastet_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "24B",
+      "name": "冰丝特",
+      "nameEn": "Mau Cryst",
+      "code": "Bastet_Ice",
+      "breedingPower": 1440,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Bastet_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "25",
+      "name": "鲁米儿",
+      "nameEn": "Celaray",
+      "code": "FlyingManta",
+      "breedingPower": 870,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlyingManta_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "25B",
+      "name": "雷米儿",
+      "nameEn": "Celaray Lux",
+      "code": "FlyingManta_Thunder",
+      "breedingPower": 830,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlyingManta_Thunder_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "26",
+      "name": "猎狼",
+      "nameEn": "Direhowl",
+      "code": "Garm",
+      "breedingPower": 1060,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Garm_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "27",
+      "name": "炸蛋鸟",
+      "nameEn": "Tocotoco",
+      "code": "ColorfulBird",
+      "breedingPower": 1340,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ColorfulBird_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "28",
+      "name": "波娜兔",
+      "nameEn": "Flopie",
+      "code": "FlowerRabbit",
+      "breedingPower": 1280,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlowerRabbit_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "29",
+      "name": "波霸牛",
+      "nameEn": "Mozzarina",
+      "code": "CowPal",
+      "breedingPower": 910,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CowPal_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "30",
+      "name": "荊棘魔仙",
+      "nameEn": "Bristla",
+      "code": "LittleBriarRose",
+      "breedingPower": 1320,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LittleBriarRose_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "31",
+      "name": "鲨小子",
+      "nameEn": "Gobfin",
+      "code": "SharkKid",
+      "breedingPower": 1090,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SharkKid_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "31B",
+      "name": "红小鲨",
+      "nameEn": "Gobfin Ignis",
+      "code": "SharkKid_Fire",
+      "breedingPower": 1100,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SharkKid_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "32",
+      "name": "吊缚灵",
+      "nameEn": "Hangyu",
+      "code": "WindChimes",
+      "breedingPower": 1420,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WindChimes_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "32B",
+      "name": "冰缚灵",
+      "nameEn": "Hangyu Cryst",
+      "code": "WindChimes_Ice",
+      "breedingPower": 1422,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WindChimes_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "33",
+      "name": "叶胖达",
+      "nameEn": "Mossanda",
+      "code": "GrassPanda",
+      "breedingPower": 430,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrassPanda_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "33B",
+      "name": "雷胖达",
+      "nameEn": "Mossanda Lux",
+      "code": "GrassPanda_Electric",
+      "breedingPower": 390,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrassPanda_Electric_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "34",
+      "name": "棉花糖",
+      "nameEn": "Woolipop",
+      "code": "SweetsSheep",
+      "breedingPower": 1190,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SweetsSheep_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "35",
+      "name": "灌木羊",
+      "nameEn": "Caprity",
+      "code": "BerryGoat",
+      "breedingPower": 930,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BerryGoat_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "35B",
+      "name": "郁木羊",
+      "nameEn": "Caprity Noct",
+      "code": "BerryGoat_Dark",
+      "breedingPower": 855,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BerryGoat_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "36",
+      "name": "美露帕",
+      "nameEn": "Melpaca",
+      "code": "Alpaca",
+      "breedingPower": 890,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Alpaca_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "37",
+      "name": "紫霞鹿",
+      "nameEn": "Eikthyrdeer",
+      "code": "Deer",
+      "breedingPower": 920,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Deer_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "37B",
+      "name": "祇岳鹿",
+      "nameEn": "Eikthyrdeer Terra",
+      "code": "Deer_Ground",
+      "breedingPower": 900,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Deer_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "38",
+      "name": "疾风隼",
+      "nameEn": "Nitewing",
+      "code": "HawkBird",
+      "breedingPower": 420,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_HawkBird_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "39",
+      "name": "姬小兔",
+      "nameEn": "Ribbuny",
+      "code": "PinkRabbit",
+      "breedingPower": 1310,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PinkRabbit_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "39B",
+      "name": "艾小兔",
+      "nameEn": "Ribbuny Botan",
+      "code": "PinkRabbit_Grass",
+      "breedingPower": 1205,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PinkRabbit_Grass_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "40",
+      "name": "炎魔羊",
+      "nameEn": "Incineram",
+      "code": "Baphomet",
+      "breedingPower": 590,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Baphomet_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "40B",
+      "name": "暗魔羊",
+      "nameEn": "Incineram Noct",
+      "code": "Baphomet_Dark",
+      "breedingPower": 580,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Baphomet_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "41",
+      "name": "幻悦蝶",
+      "nameEn": "Cinnamoth",
+      "code": "CuteButterfly",
+      "breedingPower": 490,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CuteButterfly_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "42",
+      "name": "炽焰牛",
+      "nameEn": "Arsox",
+      "code": "FlameBuffalo",
+      "breedingPower": 790,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlameBuffalo_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "43",
+      "name": "趴趴鲶",
+      "nameEn": "Dumud",
+      "code": "LazyCatfish",
+      "breedingPower": 895,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LazyCatfish_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "43B",
+      "name": "梆梆鲶",
+      "nameEn": "Dumud Gild",
+      "code": "LazyCatfish_Gold",
+      "breedingPower": 855,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LazyCatfish_Gold_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "44",
+      "name": "黑鸦隐士",
+      "nameEn": "Cawgnito",
+      "code": "DarkCrow",
+      "breedingPower": 1080,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DarkCrow_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "45",
+      "name": "朋克蜥",
+      "nameEn": "Leezpunk",
+      "code": "LizardMan",
+      "breedingPower": 1120,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LizardMan_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "45B",
+      "name": "热血蜥",
+      "nameEn": "Leezpunk Ignis",
+      "code": "LizardMan_Fire",
+      "breedingPower": 1140,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LizardMan_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "46",
+      "name": "月镰魔",
+      "nameEn": "Loupmoon",
+      "code": "Werewolf",
+      "breedingPower": 950,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Werewolf_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "46B",
+      "name": "霜镰魔",
+      "nameEn": "Loupmoon Cryst",
+      "code": "Werewolf_Ice",
+      "breedingPower": 805,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Werewolf_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "47",
+      "name": "天擒鸟",
+      "nameEn": "Galeclaw",
+      "code": "Eagle",
+      "breedingPower": 1030,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Eagle_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "48",
+      "name": "羽箭射手",
+      "nameEn": "Robinquill",
+      "code": "RobinHood",
+      "breedingPower": 1020,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_RobinHood_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "48B",
+      "name": "山岳射手",
+      "nameEn": "Robinquill Terra",
+      "code": "RobinHood_Ground",
+      "breedingPower": 1000,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_RobinHood_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "49",
+      "name": "铁拳猿",
+      "nameEn": "Gorirat",
+      "code": "Gorilla",
+      "breedingPower": 1040,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Gorilla_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "49B",
+      "name": "石掌猿",
+      "nameEn": "Gorirat Terra",
+      "code": "Gorilla_Ground",
+      "breedingPower": 1030,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Gorilla_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "50",
+      "name": "骑士蜂",
+      "nameEn": "Beegarde",
+      "code": "SoldierBee",
+      "breedingPower": 1070,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SoldierBee_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "51",
+      "name": "女皇蜂",
+      "nameEn": "Elizabee",
+      "code": "QueenBee",
+      "breedingPower": 330,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_QueenBee_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "52",
+      "name": "笑魇猫",
+      "nameEn": "Grintale",
+      "code": "NaughtyCat",
+      "breedingPower": 510,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NaughtyCat_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "53",
+      "name": "毛掸儿",
+      "nameEn": "Swee",
+      "code": "MopBaby",
+      "breedingPower": 1300,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MopBaby_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "54",
+      "name": "毛老爹",
+      "nameEn": "Sweepa",
+      "code": "MopKing",
+      "breedingPower": 410,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MopKing_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "55",
+      "name": "疾旋鼬",
+      "nameEn": "Chillet",
+      "code": "WeaselDragon",
+      "breedingPower": 800,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WeaselDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "55B",
+      "name": "桃旋鼬",
+      "nameEn": "Chillet Ignis",
+      "code": "WeaselDragon_Fire",
+      "breedingPower": 790,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WeaselDragon_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "56",
+      "name": "雷角马",
+      "nameEn": "Univolt",
+      "code": "Kirin",
+      "breedingPower": 680,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Kirin_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "57",
+      "name": "吹雪狐",
+      "nameEn": "Foxcicle",
+      "code": "IceFox",
+      "breedingPower": 760,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceFox_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "58",
+      "name": "火麒麟",
+      "nameEn": "Pyrin",
+      "code": "FireKirin",
+      "breedingPower": 360,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FireKirin_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "58B",
+      "name": "邪麒麟",
+      "nameEn": "Pyrin Noct",
+      "code": "FireKirin_Dark",
+      "breedingPower": 240,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FireKirin_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "59",
+      "name": "严冬鹿",
+      "nameEn": "Reindrix",
+      "code": "IceDeer",
+      "breedingPower": 880,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceDeer_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "60",
+      "name": "霹雳犬",
+      "nameEn": "Rayhound",
+      "code": "ThunderDog",
+      "breedingPower": 740,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ThunderDog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "61",
+      "name": "苍焰狼",
+      "nameEn": "Kitsun",
+      "code": "AmaterasuWolf",
+      "breedingPower": 830,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_AmaterasuWolf_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "61B",
+      "name": "幽焰狼",
+      "nameEn": "Kitsun Noct",
+      "code": "AmaterasuWolf_Dark",
+      "breedingPower": 735,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_AmaterasuWolf_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "62",
+      "name": "雷鸣童子",
+      "nameEn": "Dazzi",
+      "code": "RaijinDaughter",
+      "breedingPower": 1210,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_RaijinDaughter_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "62B",
+      "name": "天阴童子",
+      "nameEn": "Dazzi Noct",
+      "code": "RaijinDaughter_Water",
+      "breedingPower": 1115,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_RaijinDaughter_Water_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "63",
+      "name": "秘斯媞雅",
+      "nameEn": "Lunaris",
+      "code": "Mutant",
+      "breedingPower": 1110,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Mutant_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "64",
+      "name": "花冠龙",
+      "nameEn": "Dinossom",
+      "code": "FlowerDinosaur",
+      "breedingPower": 820,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlowerDinosaur_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "64B",
+      "name": "雷冠龙",
+      "nameEn": "Dinossom Lux",
+      "code": "FlowerDinosaur_Electric",
+      "breedingPower": 810,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlowerDinosaur_Electric_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "65",
+      "name": "滑水蛇",
+      "nameEn": "Surfent",
+      "code": "Serpent",
+      "breedingPower": 560,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Serpent_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "65B",
+      "name": "流沙蛇",
+      "nameEn": "Surfent Terra",
+      "code": "Serpent_Ground",
+      "breedingPower": 550,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Serpent_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "66",
+      "name": "噬魂兽",
+      "nameEn": "Maraith",
+      "code": "GhostBeast",
+      "breedingPower": 1150,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GhostBeast_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "67",
+      "name": "碎岩龟",
+      "nameEn": "Digtoise",
+      "code": "DrillGame",
+      "breedingPower": 850,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DrillGame_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "68",
+      "name": "猫蝠怪",
+      "nameEn": "Tombat",
+      "code": "CatBat",
+      "breedingPower": 750,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CatBat_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "69",
+      "name": "博爱蜥",
+      "nameEn": "Lovander",
+      "code": "PinkLizard",
+      "breedingPower": 940,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PinkLizard_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "70",
+      "name": "融焰娘",
+      "nameEn": "Flambelle",
+      "code": "LavaGirl",
+      "breedingPower": 1405,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LavaGirl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "71",
+      "name": "烽歌龙",
+      "nameEn": "Vanwyrm",
+      "code": "BirdDragon",
+      "breedingPower": 660,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BirdDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "71B",
+      "name": "霜歌龙",
+      "nameEn": "Vanwyrm Cryst",
+      "code": "BirdDragon_Ice",
+      "breedingPower": 620,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BirdDragon_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "72",
+      "name": "浪刃武士",
+      "nameEn": "Bushi",
+      "code": "Ronin",
+      "breedingPower": 640,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Ronin_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "72B",
+      "name": "鬼刃武士",
+      "nameEn": "Bushi Noct",
+      "code": "Ronin_Dark",
+      "breedingPower": 650,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Ronin_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "73",
+      "name": "迅雷鸟",
+      "nameEn": "Beakon",
+      "code": "ThunderBird",
+      "breedingPower": 220,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ThunderBird_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "74",
+      "name": "燧火鸟",
+      "nameEn": "Ragnahawk",
+      "code": "RedArmorBird",
+      "breedingPower": 380,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_RedArmorBird_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "75",
+      "name": "暗巫猫",
+      "nameEn": "Katress",
+      "code": "CatMage",
+      "breedingPower": 700,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CatMage_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "75B",
+      "name": "炽巫猫",
+      "nameEn": "Katress Ignis",
+      "code": "CatMage_Fire",
+      "breedingPower": 690,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CatMage_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "76",
+      "name": "焰巫狐",
+      "nameEn": "Wixen",
+      "code": "FoxMage",
+      "breedingPower": 1160,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FoxMage_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "76B",
+      "name": "幽巫狐",
+      "nameEn": "Wixen Noct",
+      "code": "FoxMage_Dark",
+      "breedingPower": 1150,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FoxMage_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "77",
+      "name": "踏春兔",
+      "nameEn": "Verdash",
+      "code": "GrassRabbitMan",
+      "breedingPower": 990,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrassRabbitMan_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "78",
+      "name": "薇莉塔",
+      "nameEn": "Vaelet",
+      "code": "VioletFairy",
+      "breedingPower": 1050,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_VioletFairy_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "79",
+      "name": "绸笠蛾",
+      "nameEn": "Sibelyx",
+      "code": "WhiteMoth",
+      "breedingPower": 450,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteMoth_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "80",
+      "name": "精灵龙",
+      "nameEn": "Elphidran",
+      "code": "FairyDragon",
+      "breedingPower": 540,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FairyDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "80B",
+      "name": "水灵龙",
+      "nameEn": "Elphidran Aqua",
+      "code": "FairyDragon_Water",
+      "breedingPower": 530,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FairyDragon_Water_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "81",
+      "name": "水灵儿",
+      "nameEn": "Kelpsea",
+      "code": "Kelpie",
+      "breedingPower": 1260,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Kelpie_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "81B",
+      "name": "火灵儿",
+      "nameEn": "Kelpsea Ignis",
+      "code": "Kelpie_Fire",
+      "breedingPower": 1270,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Kelpie_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "82",
+      "name": "碧海龙",
+      "nameEn": "Azurobe",
+      "code": "BlueDragon",
+      "breedingPower": 500,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlueDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "82B",
+      "name": "碧月龙",
+      "nameEn": "Azurobe Cryst",
+      "code": "BlueDragon_Ice",
+      "breedingPower": 480,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlueDragon_Ice_icon_normal.webp",
+      "ignoreCombi": true
+    },
+    {
+      "id": "83",
+      "name": "冰棘兽",
+      "nameEn": "Cryolinx",
+      "code": "WhiteTiger",
+      "breedingPower": 130,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteTiger_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "83B",
+      "name": "金棘兽",
+      "nameEn": "Cryolinx Terra",
+      "code": "WhiteTiger_Ground",
+      "breedingPower": 160,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteTiger_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "84",
+      "name": "狱焰王",
+      "nameEn": "Blazehowl",
+      "code": "Manticore",
+      "breedingPower": 710,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Manticore_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "84B",
+      "name": "狱阎王",
+      "nameEn": "Blazehowl Noct",
+      "code": "Manticore_Dark",
+      "breedingPower": 670,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Manticore_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "85",
+      "name": "佩克龙",
+      "nameEn": "Relaxaurus",
+      "code": "LazyDragon",
+      "breedingPower": 280,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LazyDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "85B",
+      "name": "派克龙",
+      "nameEn": "Relaxaurus Lux",
+      "code": "LazyDragon_Electric",
+      "breedingPower": 270,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LazyDragon_Electric_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "86",
+      "name": "连理龙",
+      "nameEn": "Broncherry",
+      "code": "SakuraSaurus",
+      "breedingPower": 860,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SakuraSaurus_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "86B",
+      "name": "海誓龙",
+      "nameEn": "Broncherry Aqua",
+      "code": "SakuraSaurus_Water",
+      "breedingPower": 840,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SakuraSaurus_Water_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "87",
+      "name": "花丽娜",
+      "nameEn": "Petallia",
+      "code": "FlowerDoll",
+      "breedingPower": 780,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FlowerDoll_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "88",
+      "name": "熔岩兽",
+      "nameEn": "Reptyro",
+      "code": "VolcanicMonster",
+      "breedingPower": 320,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_VolcanicMonster_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "88B",
+      "name": "寒霜兽",
+      "nameEn": "Reptyro Cryst",
+      "code": "VolcanicMonster_Ice",
+      "breedingPower": 230,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_VolcanicMonster_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "89",
+      "name": "君王美露帕",
+      "nameEn": "Kingpaca",
+      "code": "KingAlpaca",
+      "breedingPower": 470,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KingAlpaca_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "89B",
+      "name": "冰帝美露帕",
+      "nameEn": "Kingpaca Cryst",
+      "code": "KingAlpaca_Ice",
+      "breedingPower": 440,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KingAlpaca_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "90",
+      "name": "森猛犸",
+      "nameEn": "Mammorest",
+      "code": "GrassMammoth",
+      "breedingPower": 300,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrassMammoth_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "90B",
+      "name": "雪猛犸",
+      "nameEn": "Mammorest Cryst",
+      "code": "GrassMammoth_Ice",
+      "breedingPower": 290,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrassMammoth_Ice_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "91",
+      "name": "白绒雪怪",
+      "nameEn": "Wumpo",
+      "code": "Yeti",
+      "breedingPower": 460,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Yeti_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "91B",
+      "name": "绿苔绒怪",
+      "nameEn": "Wumpo Botan",
+      "code": "Yeti_Grass",
+      "breedingPower": 480,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Yeti_Grass_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "92",
+      "name": "铠格力斯",
+      "nameEn": "Warsect",
+      "code": "HerculesBeetle",
+      "breedingPower": 340,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_HerculesBeetle_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "92B",
+      "name": "格鲁力斯",
+      "nameEn": "Warsect Terra",
+      "code": "HerculesBeetle_Ground",
+      "breedingPower": 275,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_HerculesBeetle_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "93",
+      "name": "云海鹿",
+      "nameEn": "Fenglope",
+      "code": "FengyunDeeper",
+      "breedingPower": 980,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FengyunDeeper_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "93B",
+      "name": "雷隐鹿",
+      "nameEn": "Fenglope Lux",
+      "code": "FengyunDeeper_Electric",
+      "breedingPower": 835,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FengyunDeeper_Electric_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "94",
+      "name": "夜幕魔蝠",
+      "nameEn": "Felbat",
+      "code": "CatVampire",
+      "breedingPower": 1010,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CatVampire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "95",
+      "name": "天羽龙",
+      "nameEn": "Quivern",
+      "code": "SkyDragon",
+      "breedingPower": 350,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SkyDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "95B",
+      "name": "翠羽龙",
+      "nameEn": "Quivern Botan",
+      "code": "SkyDragon_Grass",
+      "breedingPower": 340,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SkyDragon_Grass_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "96",
+      "name": "焰煌",
+      "nameEn": "Blazamut",
+      "code": "KingBahamut",
+      "breedingPower": 10,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KingBahamut_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "96B",
+      "name": "殁殃",
+      "nameEn": "Blazamut Ryu",
+      "code": "KingBahamut_Dragon",
+      "breedingPower": 9,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KingBahamut_Dragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "97",
+      "name": "雷冥鸟",
+      "nameEn": "Helzephyr",
+      "code": "HadesBird",
+      "breedingPower": 190,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_HadesBird_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "97B",
+      "name": "雷鸣鸟",
+      "nameEn": "Helzephyr Lux",
+      "code": "HadesBird_Electric",
+      "breedingPower": 180,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_HadesBird_Electric_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "98",
+      "name": "魔渊龙",
+      "nameEn": "Astegon",
+      "code": "BlackMetalDragon",
+      "breedingPower": 150,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlackMetalDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "99",
+      "name": "冥铠蝎",
+      "nameEn": "Menasting",
+      "code": "DarkScorpion",
+      "breedingPower": 260,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DarkScorpion_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "99B",
+      "name": "金铠蝎",
+      "nameEn": "Menasting Terra",
+      "code": "DarkScorpion_Ground",
+      "breedingPower": 250,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DarkScorpion_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "100",
+      "name": "阿努比斯",
+      "nameEn": "Anubis",
+      "code": "Anubis",
+      "breedingPower": 570,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Anubis_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "101",
+      "name": "覆海龙",
+      "nameEn": "Jormuntide",
+      "code": "Umihebi",
+      "breedingPower": 310,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Umihebi_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "101B",
+      "name": "腾炎龙",
+      "nameEn": "Jormuntide Ignis",
+      "code": "Umihebi_Fire",
+      "breedingPower": 315,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Umihebi_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "102",
+      "name": "朱雀",
+      "nameEn": "Suzaku",
+      "code": "Suzaku",
+      "breedingPower": 50,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Suzaku_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "102B",
+      "name": "清雀",
+      "nameEn": "Suzaku Aqua",
+      "code": "Suzaku_Water",
+      "breedingPower": 30,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Suzaku_Water_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "103",
+      "name": "暴电熊",
+      "nameEn": "Grizzbolt",
+      "code": "ElecPanda",
+      "breedingPower": 200,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ElecPanda_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "104",
+      "name": "百合女王",
+      "nameEn": "Lyleen",
+      "code": "LilyQueen",
+      "breedingPower": 250,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LilyQueen_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "104B",
+      "name": "黑月女王",
+      "nameEn": "Lyleen Noct",
+      "code": "LilyQueen_Dark",
+      "breedingPower": 210,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LilyQueen_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "105",
+      "name": "荷鲁斯",
+      "nameEn": "Faleris",
+      "code": "Horus",
+      "breedingPower": 370,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Horus_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "105B",
+      "name": "伊西斯",
+      "nameEn": "Faleris Aqua",
+      "code": "Horus_Water",
+      "breedingPower": 245,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Horus_Water_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "106",
+      "name": "波鲁杰克斯",
+      "nameEn": "Orserk",
+      "code": "ThunderDragonMan",
+      "breedingPower": 140,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ThunderDragonMan_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "107",
+      "name": "异构格里芬",
+      "nameEn": "Shadowbeak",
+      "code": "BlackGriffon",
+      "breedingPower": 60,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlackGriffon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "108",
+      "name": "圣光骑士",
+      "nameEn": "Paladius",
+      "code": "SaintCentaur",
+      "breedingPower": 80,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SaintCentaur_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "109",
+      "name": "混沌骑士",
+      "nameEn": "Necromus",
+      "code": "BlackCentaur",
+      "breedingPower": 70,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlackCentaur_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "110",
+      "name": "唤冬兽",
+      "nameEn": "Frostallion",
+      "code": "IceHorse",
+      "breedingPower": 120,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceHorse_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "110B",
+      "name": "唤夜兽",
+      "nameEn": "Frostallion Noct",
+      "code": "IceHorse_Dark",
+      "breedingPower": 100,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceHorse_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "111",
+      "name": "空涡龙",
+      "nameEn": "Jetragon",
+      "code": "JetDragon",
+      "breedingPower": 90,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_JetDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "112",
+      "name": "贝菈诺娃",
+      "nameEn": "Bellanoir",
+      "code": "NightLady",
+      "breedingPower": 1,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NightLady_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "112B",
+      "name": "贝菈露洁",
+      "nameEn": "Bellanoir Libero",
+      "code": "NightLady_Dark",
+      "breedingPower": 1,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NightLady_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "113",
+      "name": "辉月伊",
+      "nameEn": "Selyne",
+      "code": "MoonQueen",
+      "breedingPower": 345,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MoonQueen_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "114",
+      "name": "武道蛙",
+      "nameEn": "Croajiro",
+      "code": "KendoFrog",
+      "breedingPower": 795,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KendoFrog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "114B",
+      "name": "极道蛙",
+      "nameEn": "Croajiro Noct",
+      "code": "KendoFrog_Dark",
+      "breedingPower": 765,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_KendoFrog_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "115",
+      "name": "春彩娘",
+      "nameEn": "Lullu",
+      "code": "LeafPrincess",
+      "breedingPower": 905,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LeafPrincess_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "116",
+      "name": "菇咚",
+      "nameEn": "Shroomer",
+      "code": "MushroomDragon",
+      "breedingPower": 720,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MushroomDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "116B",
+      "name": "菇波",
+      "nameEn": "Shroomer Noct",
+      "code": "MushroomDragon_Dark",
+      "breedingPower": 730,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MushroomDragon_Dark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "117",
+      "name": "球犰",
+      "nameEn": "Kikit",
+      "code": "SmallArmadillo",
+      "breedingPower": 1125,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SmallArmadillo_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "118",
+      "name": "恐炬灵",
+      "nameEn": "Sootseer",
+      "code": "CandleGhost",
+      "breedingPower": 545,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_CandleGhost_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "119",
+      "name": "蛊刺妖",
+      "nameEn": "Prixter",
+      "code": "ScorpionMan",
+      "breedingPower": 355,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_ScorpionMan_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "120",
+      "name": "泰锋",
+      "nameEn": "Knocklem",
+      "code": "WingGolem",
+      "breedingPower": 265,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WingGolem_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "121",
+      "name": "八云犬",
+      "nameEn": "Yakumo",
+      "code": "GuardianDog",
+      "breedingPower": 945,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GuardianDog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "122",
+      "name": "汪宗师",
+      "nameEn": "Dogen",
+      "code": "SifuDog",
+      "breedingPower": 665,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SifuDog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "123",
+      "name": "战冠雀",
+      "nameEn": "Dazemu",
+      "code": "FeatherOstrich",
+      "breedingPower": 675,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_FeatherOstrich_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "124",
+      "name": "旺财",
+      "nameEn": "Mimog",
+      "code": "MimicDog",
+      "breedingPower": 1200,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MimicDog_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "125",
+      "name": "杰诺贝达",
+      "nameEn": "Xenovader",
+      "code": "DarkAlien",
+      "breedingPower": 465,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DarkAlien_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "126",
+      "name": "杰诺路达",
+      "nameEn": "Xenogard",
+      "code": "WhiteAlienDragon",
+      "breedingPower": 435,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteAlienDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "127",
+      "name": "杰诺多兰",
+      "nameEn": "Xenolord",
+      "code": "DarkMechaDragon",
+      "breedingPower": 265,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_DarkMechaDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "128",
+      "name": "魅爱莉",
+      "nameEn": "Nitemary",
+      "code": "GhostRabbit",
+      "breedingPower": 705,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GhostRabbit_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "129",
+      "name": "夜冥驹",
+      "nameEn": "Starryon",
+      "code": "NightBlueHorse",
+      "breedingPower": 365,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_NightBlueHorse_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "130",
+      "name": "艾基鲁迦",
+      "nameEn": "Silvegis",
+      "code": "WhiteShieldDragon",
+      "breedingPower": 215,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteShieldDragon_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "131",
+      "name": "墨丸",
+      "nameEn": "Smokie",
+      "code": "BlackPuppy",
+      "breedingPower": 1245,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlackPuppy_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "132",
+      "name": "净世鹿",
+      "nameEn": "Celesdir",
+      "code": "WhiteDeer",
+      "breedingPower": 815,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_WhiteDeer_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "133",
+      "name": "面惧",
+      "nameEn": "Omascul",
+      "code": "MysteryMask",
+      "breedingPower": 630,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_MysteryMask_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "134",
+      "name": "幽恋娜",
+      "nameEn": "Splatterina",
+      "code": "GrimGirl",
+      "breedingPower": 725,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GrimGirl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "135",
+      "name": "桃蛛娘",
+      "nameEn": "Tarantriss",
+      "code": "PurpleSpider",
+      "breedingPower": 825,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PurpleSpider_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "136",
+      "name": "驭雷马",
+      "nameEn": "Azurmane",
+      "code": "BlueThunderHorse",
+      "breedingPower": 400,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlueThunderHorse_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "137",
+      "name": "霜牙王",
+      "nameEn": "Bastigor",
+      "code": "SnowTigerBeastman",
+      "breedingPower": 170,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SnowTigerBeastman_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "138",
+      "name": "梅莉姆",
+      "nameEn": "Prunelia",
+      "code": "BlueberryFairy",
+      "breedingPower": 755,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BlueberryFairy_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "139",
+      "name": "妮瞅莎",
+      "nameEn": "Nyafia",
+      "code": "BadCatgirl",
+      "breedingPower": 645,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_BadCatgirl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "140",
+      "name": "金驰兽",
+      "nameEn": "Gildane",
+      "code": "GoldenHorse",
+      "breedingPower": 505,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GoldenHorse_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "141",
+      "name": "达鼠泥",
+      "nameEn": "Herbil",
+      "code": "LeafMomonga",
+      "breedingPower": 1445,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_LeafMomonga_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "142",
+      "name": "冰姬灵",
+      "nameEn": "Icelyn",
+      "code": "IceWitch",
+      "breedingPower": 605,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceWitch_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "143",
+      "name": "白真雪雀",
+      "nameEn": "Frostplume",
+      "code": "SnowPeafowl",
+      "breedingPower": 655,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_SnowPeafowl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "144",
+      "name": "咕咕桑葩",
+      "nameEn": "Palumba",
+      "code": "TropicalOstrich",
+      "breedingPower": 455,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_TropicalOstrich_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "145",
+      "name": "梁叶龙",
+      "nameEn": "Braloha",
+      "code": "Plesiosaur",
+      "breedingPower": 335,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_Plesiosaur_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "146",
+      "name": "肚肚鳄",
+      "nameEn": "Munchill",
+      "code": "IceCrocodile",
+      "breedingPower": 1335,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceCrocodile_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "147",
+      "name": "香草豹冰",
+      "nameEn": "Polapup",
+      "code": "IceSeal",
+      "breedingPower": 745,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceSeal_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "148",
+      "name": "盔盔仔",
+      "nameEn": "Turtacle",
+      "code": "TentacleTurtle",
+      "breedingPower": 1105,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_TentacleTurtle_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "148B",
+      "name": "金盔仔",
+      "nameEn": "Turtacle Terra",
+      "code": "TentacleTurtle_Ground",
+      "breedingPower": 1065,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_TentacleTurtle_Ground_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "149",
+      "name": "海月灵",
+      "nameEn": "Jellroy",
+      "code": "JellyfishGhost",
+      "breedingPower": 1395,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_JellyfishGhost_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "150",
+      "name": "海月仙",
+      "nameEn": "Jelliette",
+      "code": "JellyfishFairy",
+      "breedingPower": 1385,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_JellyfishFairy_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "151",
+      "name": "墨沫姬",
+      "nameEn": "Gloopie",
+      "code": "OctopusGirl",
+      "breedingPower": 1195,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_OctopusGirl_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "152",
+      "name": "布偶鲨",
+      "nameEn": "Finsider",
+      "code": "StuffedShark",
+      "breedingPower": 1295,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_StuffedShark_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "152B",
+      "name": "粉粉布偶鲨",
+      "nameEn": "Finsider Ignis",
+      "code": "StuffedShark_Fire",
+      "breedingPower": 1255,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_StuffedShark_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "153",
+      "name": "冥灯鱼",
+      "nameEn": "Ghangler",
+      "code": "GhostAnglerfish",
+      "breedingPower": 525,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GhostAnglerfish_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "153B",
+      "name": "炙灯鱼",
+      "nameEn": "Ghangler Ignis",
+      "code": "GhostAnglerfish_Fire",
+      "breedingPower": 505,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_GhostAnglerfish_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "154",
+      "name": "凉晶鲸",
+      "nameEn": "Whalaska",
+      "code": "IceNarwhal",
+      "breedingPower": 445,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceNarwhal_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "154B",
+      "name": "桃晶鲸",
+      "nameEn": "Whalaska Ignis",
+      "code": "IceNarwhal_Fire",
+      "breedingPower": 430,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_IceNarwhal_Fire_icon_normal.webp",
+      "ignoreCombi": false
+    },
+    {
+      "id": "155",
+      "name": "海皇鲸",
+      "nameEn": "Neptilius",
+      "code": "PoseidonOrca",
+      "breedingPower": 90,
+      "iconUrl": "https://cdn.paldb.cc/image/Pal/Texture/PalIcon/Normal/T_PoseidonOrca_icon_normal.webp",
+      "ignoreCombi": false
+    }
+  ],
+  "uniqueBreedings": [
+    {
+      "parent1": "85",
+      "parent2": "7",
+      "child": "85B"
+    },
+    {
+      "parent1": "40",
+      "parent2": "66",
+      "child": "40B"
+    },
+    {
+      "parent1": "24",
+      "parent2": "10",
+      "child": "24B"
+    },
+    {
+      "parent1": "71",
+      "parent2": "57",
+      "child": "71B"
+    },
+    {
+      "parent1": "37",
+      "parent2": "32",
+      "child": "37B"
+    },
+    {
+      "parent1": "80",
+      "parent2": "65",
+      "child": "80B"
+    },
+    {
+      "parent1": "58",
+      "parent2": "75",
+      "child": "58B"
+    },
+    {
+      "parent1": "90",
+      "parent2": "91",
+      "child": "90B"
+    },
+    {
+      "parent1": "33",
+      "parent2": "103",
+      "child": "33B"
+    },
+    {
+      "parent1": "64",
+      "parent2": "60",
+      "child": "64B"
+    },
+    {
+      "parent1": "12",
+      "parent2": "10",
+      "child": "12B"
+    },
+    {
+      "parent1": "110",
+      "parent2": "97",
+      "child": "110B"
+    },
+    {
+      "parent1": "89",
+      "parent2": "59",
+      "child": "89B"
+    },
+    {
+      "parent1": "104",
+      "parent2": "99",
+      "child": "104B"
+    },
+    {
+      "parent1": "45",
+      "parent2": "70",
+      "child": "45B"
+    },
+    {
+      "parent1": "84",
+      "parent2": "94",
+      "child": "84B"
+    },
+    {
+      "parent1": "48",
+      "parent2": "22",
+      "child": "48B"
+    },
+    {
+      "parent1": "86",
+      "parent2": "6",
+      "child": "86B"
+    },
+    {
+      "parent1": "65",
+      "parent2": "43",
+      "child": "65B"
+    },
+    {
+      "parent1": "31",
+      "parent2": "9",
+      "child": "31B"
+    },
+    {
+      "parent1": "102",
+      "parent2": "101",
+      "child": "102B"
+    },
+    {
+      "parent1": "88",
+      "parent2": "57",
+      "child": "88B"
+    },
+    {
+      "parent1": "32",
+      "parent2": "53",
+      "child": "32B"
+    },
+    {
+      "parent1": "104",
+      "parent2": "99",
+      "child": "104B"
+    },
+    {
+      "parent1": "91",
+      "parent2": "92",
+      "child": "91B"
+    }
+  ],
+  "version": "v0.6",
+  "updatedAt": "2025-12-01T10:00:07.634Z"
+}
