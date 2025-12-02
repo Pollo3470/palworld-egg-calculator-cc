@@ -2,7 +2,7 @@
  * 帕鲁配种逻辑
  */
 
-import type { Pal, PalData, BreedingGraph, BreedingEdge, UniqueBreeding } from '@/types';
+import type { Pal, PalData, BreedingGraph, BreedingEdge, UniqueBreeding, GroupedBreedingOptions, BreedingCombination } from '@/types';
 import palDataJson from '@/data/pals.json';
 
 // 加载帕鲁数据
@@ -151,8 +151,85 @@ let cachedBreedingGraph: BreedingGraph | null = null;
  * 获取配种图（带缓存）
  */
 export function getBreedingGraph(): BreedingGraph {
-  if (!cachedBreedingGraph) {
-    cachedBreedingGraph = buildBreedingGraph();
-  }
+  cachedBreedingGraph ??= buildBreedingGraph();
   return cachedBreedingGraph;
+}
+
+/**
+ * 获取某帕鲁作为亲本的所有配种方案，按子代分组
+ */
+export function getBreedingOptionsForParent(parentId: string): GroupedBreedingOptions[] {
+  const graph = getBreedingGraph();
+  const edges = graph.get(parentId) || [];
+
+  // 按 child 分组
+  const groupMap = new Map<string, string[]>();
+  for (const edge of edges) {
+    const partners = groupMap.get(edge.child) || [];
+    partners.push(edge.partner);
+    groupMap.set(edge.child, partners);
+  }
+
+  // 转换为结果数组，并排序
+  const results: GroupedBreedingOptions[] = [];
+  for (const [childId, partnerIds] of groupMap) {
+    const childPal = getPalById(childId);
+    if (!childPal) continue;
+
+    // 组内按 partner ID 排序
+    const sortedPartnerIds = [...partnerIds].sort((a, b) => a.localeCompare(b));
+    const partners = sortedPartnerIds
+      .map(id => getPalById(id))
+      .filter((p): p is Pal => p !== undefined);
+
+    results.push({
+      child: childPal,
+      partners,
+    });
+  }
+
+  // 分组按子代 ID 排序
+  results.sort((a, b) => a.child.id.localeCompare(b.child.id));
+
+  return results;
+}
+
+/**
+ * 获取产出某子代的所有亲本组合，按 parent1 ID + parent2 ID 排序
+ */
+export function getParentCombinationsForChild(childId: string): BreedingCombination[] {
+  const graph = getBreedingGraph();
+  const combinations: BreedingCombination[] = [];
+  const seen = new Set<string>();
+
+  // 遍历所有帕鲁的配种边
+  for (const [parent1Id, edges] of graph) {
+    for (const edge of edges) {
+      if (edge.child === childId) {
+        // 创建规范化的 key（较小ID在前）确保去重
+        const [p1, p2] = parent1Id < edge.partner
+          ? [parent1Id, edge.partner]
+          : [edge.partner, parent1Id];
+        const key = `${p1}_${p2}`;
+
+        if (!seen.has(key)) {
+          seen.add(key);
+          combinations.push({
+            parent1: p1,
+            parent2: p2,
+            child: childId,
+          });
+        }
+      }
+    }
+  }
+
+  // 按 parent1 ID 排序，相同则按 parent2 ID 排序
+  combinations.sort((a, b) => {
+    const cmp1 = a.parent1.localeCompare(b.parent1);
+    if (cmp1 !== 0) return cmp1;
+    return a.parent2.localeCompare(b.parent2);
+  });
+
+  return combinations;
 }

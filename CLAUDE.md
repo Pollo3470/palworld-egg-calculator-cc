@@ -8,11 +8,18 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Live site**: https://palworld-egg.pollochen.com
 
+## Tech Stack
+
+- Next.js 16 (App Router), React 19
+- TypeScript, Tailwind CSS 4
+- Deployed on Vercel
+
 ## Commands
 
 ```bash
 npm run dev          # Start development server
 npm run build        # Production build
+npm run lint         # Run ESLint
 npm run fetch-data   # Update Pal data from external sources (run on game version updates)
 ```
 
@@ -21,8 +28,8 @@ npm run fetch-data   # Update Pal data from external sources (run on game versio
 ### Core Algorithm Flow
 
 1. **Data Layer** (`src/data/pals.json`) - Static JSON containing all Pals with breeding power values
-2. **Breeding Graph** (`src/lib/breeding.ts`) - Builds adjacency list where each Pal maps to possible offspring with partner info
-3. **Pathfinding** (`src/lib/pathfinder.ts`) - BFS traversal to find shortest breeding paths
+2. **Breeding Graph** (`src/lib/breeding.ts`) - Builds adjacency list (`Map<palId, BreedingEdge[]>`) where each Pal maps to possible offspring with partner info. Graph is cached on first access.
+3. **Pathfinding** (`src/lib/pathfinder.ts`) - BFS traversal to find shortest breeding paths (default: max 5 paths, depth 10)
 
 ### Breeding Mechanics
 

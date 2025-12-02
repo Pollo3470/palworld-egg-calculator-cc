@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://palworld-egg.pollochen.com"),
-  title: "帕鲁配种路径计算器 - Palworld Breeding Calculator",
+  title: "帕鲁配种计算器 - 配种方案/父母组合/路径查询 | Palworld",
   description:
-    "幻兽帕鲁配种路径计算器，快速计算从起始帕鲁到目标帕鲁的最短配种路线。支持中文搜索，显示多条配种方案，适用于 Palworld v0.6 版本。",
+    "幻兽帕鲁配种计算器，支持查询配种结果、父母组合、配种路径。选择父母查看子代，选择子代查看所有父母组合，实时计算最短配种路线。适用于 Palworld v0.6 版本。",
   keywords: [
     "帕鲁",
     "幻兽帕鲁",
@@ -28,22 +28,27 @@ export const metadata: Metadata = {
     "配种路径",
     "帕鲁配种",
     "帕鲁攻略",
+    "帕鲁父母组合",
+    "帕鲁配种结果",
+    "帕鲁子代查询",
+    "配种方案",
+    "breeding combinations",
   ],
   authors: [{ name: "Pollo" }],
   creator: "Pollo",
   openGraph: {
     type: "website",
     locale: "zh_CN",
-    title: "帕鲁配种路径计算器 - Palworld Breeding Calculator",
+    title: "帕鲁配种计算器 - 配种方案/父母组合/路径查询 | Palworld",
     description:
-      "幻兽帕鲁配种路径计算器，快速计算从起始帕鲁到目标帕鲁的最短配种路线。支持中文搜索，显示多条配种方案。",
-    siteName: "帕鲁配种路径计算器",
+      "幻兽帕鲁配种计算器，支持查询配种结果、父母组合、配种路径。选择父母查看子代，选择子代查看所有父母组合。",
+    siteName: "帕鲁配种计算器",
   },
   twitter: {
     card: "summary_large_image",
-    title: "帕鲁配种路径计算器 - Palworld Breeding Calculator",
+    title: "帕鲁配种计算器 - 配种方案/父母组合/路径查询 | Palworld",
     description:
-      "幻兽帕鲁配种路径计算器，快速计算从起始帕鲁到目标帕鲁的最短配种路线。",
+      "幻兽帕鲁配种计算器，支持查询配种结果、父母组合、配种路径。实时计算最短配种路线。",
   },
   robots: {
     index: true,

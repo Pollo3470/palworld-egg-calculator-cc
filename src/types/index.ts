@@ -56,3 +56,16 @@ export interface SearchState {
   path: BreedingStep[];
   depth: number;
 }
+
+// 单次配种组合
+export interface BreedingCombination {
+  parent1: string;  // ID
+  parent2: string;  // ID
+  child: string;    // ID
+}
+
+// 按子代分组的配种方案
+export interface GroupedBreedingOptions {
+  child: Pal;
+  partners: Pal[];  // 配种伙伴列表
+}
