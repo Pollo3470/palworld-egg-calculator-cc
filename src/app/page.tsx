@@ -6,6 +6,26 @@ import PalSelector from '@/components/PalSelector';
 import PathDisplay from '@/components/PathDisplay';
 import { findBreedingPaths } from '@/lib/pathfinder';
 
+// 结构化数据
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "帕鲁配种路径计算器",
+  "description": "幻兽帕鲁配种路径计算器，快速计算从起始帕鲁到目标帕鲁的最短配种路线。",
+  "url": "https://palworld-egg.pollochen.com",
+  "applicationCategory": "GameApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "CNY"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Pollo"
+  }
+};
+
 export default function Home() {
   const [startPal, setStartPal] = useState<Pal | null>(null);
   const [targetPal, setTargetPal] = useState<Pal | null>(null);
@@ -31,7 +51,12 @@ export default function Home() {
   const canCalculate = startPal && targetPal && !isCalculating;
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <div className="min-h-screen bg-gray-50">
       <div className="max-w-2xl mx-auto px-4 py-8">
         {/* 标题 */}
         <header className="text-center mb-8">
@@ -168,5 +193,6 @@ export default function Home() {
         </footer>
       </div>
     </div>
+    </>
   );
 }
