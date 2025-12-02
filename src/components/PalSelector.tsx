@@ -12,6 +12,33 @@ interface PalSelectorProps {
   label?: string;
 }
 
+// 图片占位符组件
+function PalImage({ pal, size = 40 }: { pal: Pal; size?: number }) {
+  const [hasError, setHasError] = useState(false);
+
+  if (hasError) {
+    return (
+      <div
+        className="w-full h-full flex items-center justify-center bg-gray-200 text-gray-500 text-xs font-medium"
+        style={{ fontSize: size > 30 ? '0.75rem' : '0.5rem' }}
+      >
+        {pal.name.slice(0, 2)}
+      </div>
+    );
+  }
+
+  return (
+    <Image
+      src={pal.iconUrl}
+      alt={pal.name}
+      fill
+      className="object-contain"
+      unoptimized
+      onError={() => setHasError(true)}
+    />
+  );
+}
+
 export default function PalSelector({
   value,
   onChange,
@@ -24,9 +51,9 @@ export default function PalSelector({
   const containerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // 搜索帕鲁
+  // 搜索帕鲁 - 移除数量限制
   useEffect(() => {
-    const searchResults = searchPals(query, true, 50);
+    const searchResults = searchPals(query, true, 999);
     setResults(searchResults);
   }, [query]);
 
@@ -80,13 +107,7 @@ export default function PalSelector({
       {value ? (
         <div className="flex items-center gap-3 p-3 border border-gray-300 rounded-lg bg-white">
           <div className="w-12 h-12 relative rounded-lg overflow-hidden bg-gray-50 flex-shrink-0">
-            <Image
-              src={value.iconUrl}
-              alt={value.name}
-              fill
-              className="object-contain"
-              unoptimized
-            />
+            <PalImage pal={value} size={48} />
           </div>
           <div className="flex-1 min-w-0">
             <div className="font-medium text-gray-900">{value.name}</div>
@@ -143,13 +164,7 @@ export default function PalSelector({
                   onClick={() => handleSelect(pal)}
                 >
                   <div className="w-10 h-10 relative rounded-lg overflow-hidden bg-gray-50 flex-shrink-0">
-                    <Image
-                      src={pal.iconUrl}
-                      alt={pal.name}
-                      fill
-                      className="object-contain"
-                      unoptimized
-                    />
+                    <PalImage pal={pal} size={40} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="font-medium text-gray-900">

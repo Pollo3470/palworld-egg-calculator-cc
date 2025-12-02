@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import Image from 'next/image';
 import type { Pal } from '@/types';
 
@@ -8,6 +9,30 @@ interface BreedingStepDisplayProps {
   partner: Pal;
   result: Pal;
   stepNumber: number;
+}
+
+// 图片占位符组件
+function PalImage({ pal }: { pal: Pal }) {
+  const [hasError, setHasError] = useState(false);
+
+  if (hasError) {
+    return (
+      <div className="w-full h-full flex items-center justify-center bg-gray-200 text-gray-500 text-xs font-medium">
+        {pal.name.slice(0, 2)}
+      </div>
+    );
+  }
+
+  return (
+    <Image
+      src={pal.iconUrl}
+      alt={pal.name}
+      fill
+      className="object-contain"
+      unoptimized
+      onError={() => setHasError(true)}
+    />
+  );
 }
 
 export default function BreedingStepDisplay({
@@ -22,13 +47,7 @@ export default function BreedingStepDisplay({
         <div className="text-xs text-gray-500 mb-1">{label}</div>
       )}
       <div className="w-14 h-14 relative rounded-lg overflow-hidden bg-gray-50 shadow-sm">
-        <Image
-          src={pal.iconUrl}
-          alt={pal.name}
-          fill
-          className="object-contain"
-          unoptimized
-        />
+        <PalImage pal={pal} />
       </div>
       <div className="mt-1 text-sm font-medium text-gray-900 text-center max-w-16 truncate">
         {pal.name}
