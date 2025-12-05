@@ -131,8 +131,8 @@ export default function Home() {
         <div className="bg-white rounded-xl shadow-sm p-6 mb-6">
           <div className="space-y-6">
             {/* 父母选择行 */}
-            <div className="flex items-start gap-4">
-              <div className="flex-1">
+            <div className="flex flex-col md:flex-row items-center md:items-start gap-4">
+              <div className="w-full md:flex-1">
                 <PalSelector
                   value={parent1}
                   onChange={handleParent1Change}
@@ -142,7 +142,7 @@ export default function Home() {
               </div>
 
               {/* 加号 */}
-              <div className="flex items-center justify-center pt-8">
+              <div className="flex items-center justify-center pt-2 md:pt-8">
                 <div className="p-2 bg-gray-100 rounded-full">
                   <svg
                     className="w-5 h-5 text-gray-400"
@@ -160,7 +160,7 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="flex-1">
+              <div className="w-full md:flex-1">
                 <PalSelector
                   value={parent2}
                   onChange={handleParent2Change}
